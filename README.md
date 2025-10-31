@@ -23,4 +23,5 @@ bước 3 : xác thực chữ ký (verify_pdf.py với chudaky.pdf`)
  Nhận xét: Chữ ký hợp lệ, nội dung không bị chỉnh sửa, chứng chỉ tin cậy, có timestamp. Hệ thống xác thực hoạt động đúng.
 image
 
+Chưa hoàn thành!
 
